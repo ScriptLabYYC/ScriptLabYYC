@@ -8,7 +8,8 @@
  
 📫 Contact me on GitHub
  
- 
+
+   
 On one hand :hand: you have the way things are.
  
 On the other hand :hand: you have the way things should be. 
