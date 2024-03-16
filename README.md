@@ -7,9 +7,12 @@
 💞️ I’m looking to collaborate on Automation and Enterprise I.T. Projects
  
 📫 Contact me on GitHub
-
+ 
+ 
 On one hand :hand: you have the way things are.
+ 
 On the other hand :hand: you have the way things should be. 
+ 
 :pray:
 
 <!---
