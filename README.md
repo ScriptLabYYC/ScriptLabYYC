@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScriptLabYYC
-- 👀 I’m interested in Improving Operations
+- 👀 I’m interested in pursuing my career of Improving IT and Business Operations
 - 🌱 I’m currently learning Desktop Engineering
 - 💞️ I’m looking to collaborate on Automation and Enterprise I.T. Projects
 - 📫 Contact me on GitHub
